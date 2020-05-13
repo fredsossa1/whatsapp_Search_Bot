@@ -53,7 +53,9 @@ npm start
 ```
 ./ngrok http 3000
 ```
-6. Copy the new server (in this case "https//ffab8079.ngrok,io") and add it to the sandbox![](https://i.imgur.com/lSgs1C4.png) and paste it here 
+6. Copy the new server (in this case "https//ffab8079.ngrok,io") and add it to the sandbox![](https://i.imgur.com/lSgs1C4.png) 
+
+and paste it here 
 
 ![](https://i.imgur.com/pjD32Zp.png)
 
@@ -66,3 +68,12 @@ You can now go to your Whatsapp account and try sending a message to your endpoi
 If everything goes well you should get a response back as shown below !
 
 ![](https://i.imgur.com/cuFUUGe.jpg)
+
+
+## Author
+
+* **Freddy Sossa** 
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
